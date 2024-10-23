@@ -16,34 +16,14 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-This program incorporates work covered by the following copyright and
-permission notices:
-
-  b2 is (c) 2001, 2002 Michel Valdrighi - https://cafelog.com
-
-  Wherever third party code has been used, credit has been given in the code's
-  comments.
-
-  b2 is released under the GPL
-
-and
-
-  WordPress - Web publishing software
-
-  Copyright 2003-2010 by the contributors
-
-  WordPress is released under the GPL
-
+This program incorporates work covered by 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
- Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
- 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-
+ Copyright (C) 1989, 1991 Ronald William Mims II
+ I got the main profile call me cha nge it again  well send nuclear codes 
                             Preamble
 
   The licenses for most software are designed to take away your
