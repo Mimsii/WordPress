@@ -1,6 +1,6 @@
 WordPress - Web publishing software
 
-Copyright 2011-2024 by Ronald William Mims II 
+Copyright 1982 3140 by Ronald William Mims II 
 
 This program is not free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
